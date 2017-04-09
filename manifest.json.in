@@ -1,0 +1,19 @@
+{
+    "name": "qtgram.mzanetti",
+    "description": "description of QtGram-ubuntu",
+    "architecture": "@CLICK_ARCH@",
+    "title": "QtGram",
+    "hooks": {
+        "qtgram": {
+            "apparmor": "QtGram-ubuntu/QtGram-ubuntu.apparmor",
+            "desktop": "QtGram-ubuntu/QtGram-ubuntu.desktop"
+        },
+        "pushHelper": {
+            "apparmor": "push-helper/push-helper.apparmor",
+            "push-helper": "push-helper/push-helper.json"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Michael Zanetti <michael.zanetti@canonical.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}

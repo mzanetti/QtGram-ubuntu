@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=QtGram-ubuntu
+Exec=QtGram-ubuntu
+Icon=QtGram-ubuntu/icon.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

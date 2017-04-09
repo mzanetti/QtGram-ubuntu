@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-11 14:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/micha/Develop/QtGram-ubuntu/QtGram-ubuntu/view/dialog/DialogsView.qml:232
+#, qt-format
+msgid "Are you sure you want to forward <b>%1 messages</b> to <b>%2</b>?"
+msgstr ""
+
+#: /home/micha/Develop/QtGram-ubuntu/QtGram-ubuntu/view/subview/ContactInfo.qml:12
+msgid "Contact details"
+msgstr ""
+
+#: /home/micha/Develop/QtGram-ubuntu/QtGram-ubuntu/view/subview/ContactInfo.qml:57
+msgid "Send message"
+msgstr ""
+
+#: /home/micha/Develop/QtGram-ubuntu/QtGram-ubuntu/view/subview/ContactInfo.qml:67
+msgid "Info"
+msgstr ""
+
+#: /home/micha/Develop/QtGram-ubuntu/QtGram-ubuntu/view/subview/ContactInfo.qml:77
+msgid "Mobile:"
+msgstr ""
+
+#: /home/micha/Develop/QtGram-ubuntu/QtGram-ubuntu/view/subview/ContactInfo.qml:90
+msgid "Username:"
+msgstr ""
+
+#: /home/micha/Develop/QtGram-ubuntu/QtGram-ubuntu/view/subview/ContactInfo.qml:98
+msgid "Settings"
+msgstr ""
+
+#: /home/micha/Develop/QtGram-ubuntu/QtGram-ubuntu/view/subview/ContentHubPage.qml:21
+msgid "Contenthub Test Item"
+msgstr ""
+
+#: /home/micha/Develop/QtGram-ubuntu/QtGram-ubuntu/view/subview/ImagePreview.qml:13
+#, qt-format
+msgid "From: %1"
+msgstr ""
+
+#: /home/micha/Develop/build-QtGram-ubuntu-Desktop-Debug/QtGram-ubuntu/QtGram-ubuntu.desktop.h:1
+msgid "QtGram-ubuntu"
+msgstr ""

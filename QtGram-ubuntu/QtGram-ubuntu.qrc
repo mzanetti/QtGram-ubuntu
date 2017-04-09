@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>js/CountryList.js</file>
+        <file>js/Emoji.js</file>
+        <file>js/Settings.js</file>
+        <file>js/TextElaborator.js</file>
+        <file>view/login/PhoneNumberView.qml</file>
+        <file>model/Context.qml</file>
+        <file>view/login/SignInView.qml</file>
+        <file>view/dialog/DialogsView.qml</file>
+        <file>view/subview/MessagesView.qml</file>
+        <file>item/MessageModelItem.qml</file>
+        <file>component/message/MessageTextInput.qml</file>
+        <file>component/message/MessageStatus.qml</file>
+        <file>component/message/media/AnimatedMessage.qml</file>
+        <file>component/message/media/FileMessage.qml</file>
+        <file>component/message/media/ImageMessage.qml</file>
+        <file>component/message/media/LocationMessage.qml</file>
+        <file>component/message/media/WebPageMessage.qml</file>
+        <file>component/message/MessageQuote.qml</file>
+        <file>component/message/MessageText.qml</file>
+        <file>component/message/reply/MessageReplyImage.qml</file>
+        <file>component/message/reply/MessageReplyItem.qml</file>
+        <file>component/view/ContactList.qml</file>
+        <file>item/ContactModelItem.qml</file>
+        <file>js/Colors.js</file>
+        <file>component/message/media/AudioMessage.qml</file>
+        <file>view/subview/ImagePreview.qml</file>
+        <file>view/subview/ContentHubPage.qml</file>
+        <file>component/view/ActionMessagePanel.qml</file>
+        <file>view/subview/ContactInfo.qml</file>
+        <file>view/subview/ContactsPage.qml</file>
+        <file>view/subview/SettingsPage.qml</file>
+        <file>component/PeerImage.qml</file>
+        <file>component/message/media/StickerMessage.qml</file>
+        <file>component/view/StickersPanel.qml</file>
+        <file>component/sticker/StickerImage.qml</file>
+    </qresource>
+</RCC>
